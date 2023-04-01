@@ -1,0 +1,3 @@
+{"Id": "1", "Title": "Lethal Weapon 3", "Formats":["VHS","DVD","BluRay"], "Length":100, "Regions": [0,2]}
+{"Id": "2", "Title": "Legally Blond", "Formats":["VHS","DVD"], "Length":120, "Regions": [1,6,8]}
+{"Id": "3", "Title": "Good Will Hunting", "Formats":["MP4","BluRay"], "Length":135, "Regions": [0,2,9,10,12]}
